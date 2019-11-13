@@ -1,3 +1,3 @@
 public struct Validator {
-    var text = "Hello, World!"
+    public static let text = "Hello, World!"
 }
