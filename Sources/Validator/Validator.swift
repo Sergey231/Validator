@@ -1,3 +1,3 @@
-struct Validator {
+public struct Validator {
     var text = "Hello, World!"
 }
