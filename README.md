@@ -55,7 +55,7 @@ paymentCardTextField.validate(cardRule) // -> .valid or .invalid(validationError
 
 ## Demo
 
-![demo-vid](resources/validator-example.mov.gif)
+![demo-vid](Resources/validator-example.mov.gif)
 
 ## Installation
 
