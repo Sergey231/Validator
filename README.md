@@ -59,17 +59,14 @@ paymentCardTextField.validate(cardRule) // -> .valid or .invalid(validationError
 
 ## Installation
 
+### Swift Package Manager
+
+.xcodeproj/PROJECT/Swift Packages -> "+" button -> https://github.com/Sergey231/Validator.git
+
 ### CocoaPods
-
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Validator.svg)](https://github.com/CocoaPods/CocoaPods) [![CocoaPods Compatible](https://img.shields.io/cocoapods/dt/Validator.svg)](https://github.com/CocoaPods/CocoaPods)
-
-`pod 'Validator'`
-
 ### Carthage
 
- [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-
-`github "adamwaite/Validator"`
+ https://github.com/adamwaite/Validator
 
 ## Usage
 
